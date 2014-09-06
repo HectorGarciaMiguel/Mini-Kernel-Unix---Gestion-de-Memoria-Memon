@@ -1,0 +1,10 @@
+Fallos de página 41
+Fallos no forzados 27
+Fallos forzados 14
+Fallos sin reemplazo 10
+Fallos con reemplazo 31
+Fallos sin lectura 4
+Fallos con lectura fichero 25
+Fallos con lectura swap 12
+Escrituras en fichero 5
+Escrituras en swap 10

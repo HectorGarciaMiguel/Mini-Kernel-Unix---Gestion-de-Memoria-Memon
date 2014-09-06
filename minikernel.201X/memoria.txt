@@ -1,0 +1,51 @@
+GRUPO:
+52986198 PERERA MONTERO ISABEL 930092
+02671383 GARCIA MIGUEL HECTOR 060036
+
+
+===================================================
+LA LLAMADA DORMIR 
+
+
+---------------------------------------------------
+LAS INTERRUPCIONES EN DORMIR 
+
+===================================================
+LA LLAMADA TIEMPOS_PROCESO 
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+Proceso se duerme 
+
+---------------------------------------------------
+Parámetro incorrecto a tiempos_proceso 
+
+---------------------------------------------------
+LAS INTERRUPCIONES EN TIEMPOS_PROCESO 
+
+===================================================
+LAS LLAMADAS PARA CREAR, ABRIR Y CERRAR MUTEX 
+
+---------------------------------------------------
+
+ERROR TRATANDO EL CASO DE 2 PROCESOS COMPITIENDO POR UN DESCRIPTOR LIBRE INTENTADO CREAR EL MISMO MUTEX
+
+===================================================
+LAS LLAMADAS LOCK Y UNLOCK 
+
+
+===================================================
+PROBANDO EL ROUND-ROBIN (Calificación total sobre 1.500)
+...
+
+===================================================
+PROBANDO LA LECTURA DEL TERMINAL 
+...
+
+===================================================

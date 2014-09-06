@@ -1,0 +1,133 @@
+-------- fallo 0x2ac42a8c096c -------------
+------- dir mprotect 0x2ac42a8c0000 -------------
+-------- FIN fallo 0x2ac42a8c096c -------------
+-------- fallo 0x2ac42aac1358 -------------
+------- dir mprotect 0x2ac42aac1000 -------------
+-------- FIN fallo 0x2ac42aac1358 -------------
+-------- fallo 0x2ac42aac8100 -------------
+------- dir mprotect 0x2ac42aac8000 -------------
+-------- FIN fallo 0x2ac42aac8100 -------------
+-------- fallo 0x2ac42aaea000 -------------
+------- dir mprotect 0x2ac42aaea000 -------------
+-------- FIN fallo 0x2ac42aaea000 -------------
+-------- fallo 0x2ac42aaee000 -------------
+------- dir mprotect 0x2ac42aaee000 -------------
+-------- FIN fallo 0x2ac42aaee000 -------------
+-------- fallo 0x2ac42aac2000 -------------
+------- dir mprotect 0x2ac42aac2000 -------------
+-------- FIN fallo 0x2ac42aac2000 -------------
+-------- fallo 0x2ac42aaeb000 -------------
+------- dir mprotect 0x2ac42aaeb000 -------------
+-------- FIN fallo 0x2ac42aaeb000 -------------
+-------- fallo 0x2ac42aaef000 -------------
+------- dir mprotect 0x2ac42aaef000 -------------
+-------- FIN fallo 0x2ac42aaef000 -------------
+-------- fallo 0x2ac42aac3000 -------------
+------- dir mprotect 0x2ac42aac3000 -------------
+-------- FIN fallo 0x2ac42aac3000 -------------
+-------- fallo 0x2ac42a8c0c84 -------------
+------- dir mprotect 0x2ac42a8c0000 -------------
+-------- FIN fallo 0x2ac42a8c0c84 -------------
+-------- fallo 0x2ac42aac12e0 -------------
+------- dir mprotect 0x2ac42aac1000 -------------
+-------- FIN fallo 0x2ac42aac12e0 -------------
+-------- fallo 0x2ac42aac8104 -------------
+------- dir mprotect 0x2ac42aac8000 -------------
+-------- FIN fallo 0x2ac42aac8104 -------------
+-------- fallo 0x2ac42aaec000 -------------
+------- dir mprotect 0x2ac42aaec000 -------------
+-------- FIN fallo 0x2ac42aaec000 -------------
+-------- fallo 0x2ac42aaf0000 -------------
+------- dir mprotect 0x2ac42aaf0000 -------------
+-------- FIN fallo 0x2ac42aaf0000 -------------
+-------- fallo 0x2ac42aac4000 -------------
+------- dir mprotect 0x2ac42aac4000 -------------
+-------- FIN fallo 0x2ac42aac4000 -------------
+-------- fallo 0x2ac42aaed000 -------------
+------- dir mprotect 0x2ac42aaed000 -------------
+-------- FIN fallo 0x2ac42aaed000 -------------
+-------- fallo 0x2ac42aaf1000 -------------
+------- dir mprotect 0x2ac42aaf1000 -------------
+-------- FIN fallo 0x2ac42aaf1000 -------------
+-------- fallo 0x2ac42aaee000 -------------
+------- dir mprotect 0x2ac42aaee000 -------------
+-------- FIN fallo 0x2ac42aaee000 -------------
+-------- fallo 0x2ac42a8c0e17 -------------
+------- dir mprotect 0x2ac42a8c0000 -------------
+-------- FIN fallo 0x2ac42a8c0e17 -------------
+-------- fallo 0x2ac42aac12b0 -------------
+------- dir mprotect 0x2ac42aac1000 -------------
+-------- FIN fallo 0x2ac42aac12b0 -------------
+-------- fallo 0x2ac42aaea000 -------------
+------- dir mprotect 0x2ac42aaea000 -------------
+-------- FIN fallo 0x2ac42aaea000 -------------
+-------- fallo 0x2ac42aac8104 -------------
+------- dir mprotect 0x2ac42aac8000 -------------
+-------- FIN fallo 0x2ac42aac8104 -------------
+-------- fallo 0x2ac42aaef000 -------------
+------- dir mprotect 0x2ac42aaef000 -------------
+-------- FIN fallo 0x2ac42aaef000 -------------
+-------- fallo 0x2ac42aaeb000 -------------
+------- dir mprotect 0x2ac42aaeb000 -------------
+-------- FIN fallo 0x2ac42aaeb000 -------------
+-------- fallo 0x2ac42aaf0000 -------------
+------- dir mprotect 0x2ac42aaf0000 -------------
+-------- FIN fallo 0x2ac42aaf0000 -------------
+-------- fallo 0x2ac42aaec000 -------------
+------- dir mprotect 0x2ac42aaec000 -------------
+-------- FIN fallo 0x2ac42aaec000 -------------
+-------- fallo 0x2ac42aaf1000 -------------
+------- dir mprotect 0x2ac42aaf1000 -------------
+-------- FIN fallo 0x2ac42aaf1000 -------------
+-------- fallo 0x2ac42a8c0e17 -------------
+------- dir mprotect 0x2ac42a8c0000 -------------
+-------- FIN fallo 0x2ac42a8c0e17 -------------
+-------- fallo 0x2ac42aac12b0 -------------
+------- dir mprotect 0x2ac42aac1000 -------------
+-------- FIN fallo 0x2ac42aac12b0 -------------
+-------- fallo 0x2ac42aaed000 -------------
+------- dir mprotect 0x2ac42aaed000 -------------
+-------- FIN fallo 0x2ac42aaed000 -------------
+-------- fallo 0x2ac42aac8104 -------------
+------- dir mprotect 0x2ac42aac8000 -------------
+-------- FIN fallo 0x2ac42aac8104 -------------
+-------- fallo 0x2ac42aaea000 -------------
+------- dir mprotect 0x2ac42aaea000 -------------
+-------- FIN fallo 0x2ac42aaea000 -------------
+-------- fallo 0x2ac42aac2000 -------------
+------- dir mprotect 0x2ac42aac2000 -------------
+-------- FIN fallo 0x2ac42aac2000 -------------
+-------- fallo 0x2ac42aac3000 -------------
+------- dir mprotect 0x2ac42aac3000 -------------
+-------- FIN fallo 0x2ac42aac3000 -------------
+-------- fallo 0x2ac42aaebc60 -------------
+------- dir mprotect 0x2ac42aaeb000 -------------
+-------- FIN fallo 0x2ac42aaebc60 -------------
+-------- fallo 0x2ac42aaec000 -------------
+------- dir mprotect 0x2ac42aaec000 -------------
+-------- FIN fallo 0x2ac42aaec000 -------------
+-------- fallo 0x2ac42a8c0ec6 -------------
+------- dir mprotect 0x2ac42a8c0000 -------------
+-------- FIN fallo 0x2ac42a8c0ec6 -------------
+-------- fallo 0x2ac42aac12f0 -------------
+------- dir mprotect 0x2ac42aac1000 -------------
+-------- FIN fallo 0x2ac42aac12f0 -------------
+-------- fallo 0x2ac42aac4000 -------------
+------- dir mprotect 0x2ac42aac4000 -------------
+-------- FIN fallo 0x2ac42aac4000 -------------
+-------- fallo 0x2ac42aac8104 -------------
+------- dir mprotect 0x2ac42aac8000 -------------
+-------- FIN fallo 0x2ac42aac8104 -------------
+-------- fallo 0x2ac42aaed000 -------------
+------- dir mprotect 0x2ac42aaed000 -------------
+-------- FIN fallo 0x2ac42aaed000 -------------
+Fallos de página 41
+Fallos no forzados 27
+Fallos forzados 14
+Fallos sin reemplazo 10
+Fallos con reemplazo 31
+Fallos sin lectura 0
+Fallos con lectura fichero 0
+Fallos con lectura swap 0
+Escrituras en fichero 0
+Escrituras en swap 0
